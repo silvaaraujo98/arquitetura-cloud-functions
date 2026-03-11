@@ -1,10 +1,4 @@
-Excelente ideia. Um bom `README.md` é o que diferencia um amontoado de arquivos de um **projeto profissional**. Para um template de GitHub, ele precisa ser direto, explicar como configurar o ambiente e como fazer o deploy.
 
-Aqui está um modelo completo em Markdown para você copiar e colar:
-
----
-
-```markdown
 # 🚀 Python Cloud Function Template
 
 Este é um template profissional para o desenvolvimento de **Google Cloud Functions** utilizando Python. Ele segue boas práticas de modularização, separando a lógica de negócio das integrações de infraestrutura.
